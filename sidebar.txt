@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mbm:home|Door43 (mbm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mbm|d43-mbm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mbm/archive/master.zip|d43-mbm.zip]]
+
+**Recent Changes**
+{{changes>ns = mbm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mbm|Ethnologue data]]
+
